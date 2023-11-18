@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Phan Nguyễn Hữu Phước<br><br>Glad to see you here!<br><br>I'm a sophomore from HCMUT-VNU.<br> I'm a competitive programming contestant and a desktop application junior developer.<br>I am currently in the process of learning advanced algorithms and learning about AI.
+Hi 👋, I'm Phan Nguyễn Hữu Phước<br><br>Glad to see you here!<br><br>I'm a sophomore from HCMUT-VNU.<br> I'm a competitive programming contestant.<br>I am currently in the process of learning advanced algorithms and learning about AI.
 
 
 ## 🌐 Socials:
