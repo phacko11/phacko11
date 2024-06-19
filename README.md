@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi 👋, I'm Phan Nguyễn Hữu Phước<br><br>Glad to see you here!<br><br>I'm a sophomore from HCMUT-VNU.<br>I am currently in the process of learning advanced algorithms and learning about AI.
+Hi 👋, I'm Phan Nguyễn Hữu Phước<br><br>Glad to see you here!<br><br>I'm a sophomore from HCMUT-VNU.<br>I am currently in the process of learning advanced algorithms and learning about cyber security
+.
 
 
 ## 🌐 Socials:
