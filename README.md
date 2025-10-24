@@ -7,7 +7,7 @@ Hello! I'm **Huu Phuoc** (_phacko_), a 21-year-old **Computer Science** senior y
 🔗 **Follow me on GitHub**: [phacko11](https://github.com/phacko11?tab=followers)  
 🔗 **About HCMUT**: [Learn More](https://hcmut.edu.vn/en)  
 
-<img src="https://raw.githubusercontent.com/phacko11/phacko11/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/phacko11/phacko11/71dcc3fdc5dbb5e8d8306914938a7d8ff729f5b7/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
